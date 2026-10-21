@@ -1,0 +1,17 @@
+{
+  "name": "Nuvole Di Pelo · Toelettatura a Viterbo",
+  "short_name": "Nuvole Di Pelo",
+  "description": "Toelettatura per cani a Viterbo, in viale Armando Diaz 36 (zona Pietrare): bagno e asciugatura, taglio e tosatura, spazzolatura.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffcf8",
+  "theme_color": "#b9dcf3",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/icons/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
